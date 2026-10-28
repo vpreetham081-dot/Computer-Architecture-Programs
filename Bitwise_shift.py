@@ -1,4 +1,3 @@
-```python
 def display_binary(n):
     return format(n & 255, '08b')
 
@@ -36,4 +35,3 @@ left_shift("10110110", 3)
 
 print("\n2. Right Shift of 11010100 by 3 positions")
 right_shift("11010100", 3)
-```
